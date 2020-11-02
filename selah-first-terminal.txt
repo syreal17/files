@@ -1,0 +1,99 @@
+    1  ll
+    2  ls -al
+    3  cd RetroPie
+    4  ll
+    5  ls -al
+    6  cd roms/
+    7  ls -al
+    8  cd snes
+    9  ls -al
+   10  wget https://www.fantasyanime.com/mana/roms/Secret_of_Mana_(U)_[!].zip
+   11  wget "https://www.fantasyanime.com/mana/roms/Secret_of_Mana_(U)_[!].zip"
+   12  ls -al
+   13  sudo shutdown -h 0
+   14  ll
+   15  ls -al
+   16  cd RetroPie
+   17  ls -al
+   18  cd roms/
+   19  ls -al
+   20  pwd
+   21  clear
+   22  ll
+   23  screen
+   24  pwd
+   25  man adduser
+   26  startx
+   27  apt-get install screen
+   28  sudo apt-get install screen
+   29  uname -a
+   30  adduser
+   31  sudo adduser
+   32  sudo -s
+   33  sudo adduser syreal
+   34  sudo vi /etc/group
+   35  clear
+   36  su syreal
+   37  sudo apt-get install lightdm
+   38  rasp-config
+   39  raspi-config 
+   40  sudo raspi-config 
+   41  exit
+   42  sudo -s
+   43  exit
+   44  ll
+   45  ls -al
+   46  ./emulationstation
+   47  ./.emulationstation
+   48  shutdown 0 -r
+   49  +++++++++++++++++++++++++++++++++++++++++++++++++++++-r/?jn/bn hn.bn.vb 
+   50  ~~~
+   51  +++
+   52  +~~~~~~~~~~~~~~
+   53  ++++++++++++++
+   54  +++++++++++++
+   55  Selah+
+   56  ~~S[C+
+   57  [2~[5~
+   58  ++++++++++++++++++++++++++++++++++++
+   59  m         
+   60  ++++++++++++++++++++++++++++++++++++
+   61  ~+++++++++++- r54  
+   62  \\\\\\
+   63  Selahllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+   64  Dkadajjjjjjjh
+   65  mommy
+   66  jjjjjjjj,mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmbbbbbbbbbbSelaj
+   67  ll
+   68  lsgg
+   69  uy7er~9rfgj5fuhsdfuhzxyhdghdgxdghxdg
+   70  ls
+   71  fggggggggg                       cd /
+   72  cd /
+   73  ll
+   74  dcfjcvjmvjkfgjkgvjnfgvnvnf gh
+   75  g
+   76  '
+   77  \
+   78  ,l./'g\];l.k;j'uiol. ;dl'bh]ykbjhlgktyvl cgk,'
+   79  \[2~[2~[2~[2~[2~
+   80  [2~[2~[2~[2~[2~[2~/
+   81  "?
+   82  }
+   83  ls -al
+   84  ~-++++
+   85  +
+   86  3uj8.hh-yhu89giiiii00000-999999+++++++++
+   87  ls -alkm, 
+   88  , ].l.].;/\l.]l.]
+   89  k,=[io~b /v  ujhc uyrtf56~~9tp-0xcrtfi8e4E64uy7~5d~eDCw~5E~CECDCD3AAAAAAAAAAAAfgv/tgl.gymk
+   90  ls -al
+   91  cd
+   92  ls -al
+   93  cd .emulationstation
+   94  ll
+   95  ls -al
+   96  cd 
+   97  emulationstation 
+   98  history
+   99  history > selah-first-terminal.txt
